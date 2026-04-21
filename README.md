@@ -1,7 +1,20 @@
 # Spring's Espresso Cafe
 
+Developed a responsive single-page café website with an integrated admin dashboard.
+
+Implemented dynamic menu management and table reservation system using browser localStorage. 
+
+Designed UI/UX in Figma and translated it into a fully functional frontend application.
+
+Tools used: HTML, CSS, JavaScript, Bootstrap, Figma
+
 # Figma Design
+
 https://www.figma.com/design/iYCSvwU3xpGCluCxWgvkkG/Spring-s-Espresso-Cafe?node-id=0-1&p=f&t=7bTNrfRZKQ0SrMJ6-0
+
+# Other Figma Designs
+
+https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?t=7bTNrfRZKQ0SrMJ6-0
 
 # Images
 
@@ -13,5 +26,6 @@ Admin Login Page
 
 Admin Dashboard Page
 <img width="940" height="914" alt="image" src="https://github.com/user-attachments/assets/50cab031-e6d3-4997-ae86-9ce044edd5ee" />
+
 
 
