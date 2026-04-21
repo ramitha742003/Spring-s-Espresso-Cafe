@@ -14,7 +14,7 @@ https://www.figma.com/design/iYCSvwU3xpGCluCxWgvkkG/Spring-s-Espresso-Cafe?node-
 
 # Other Figma Designs
 
-https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?t=7bTNrfRZKQ0SrMJ6-0
+https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?node-id=0-1&p=f&t=ypNRVw6Ujtmm15UX-0
 
 https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?node-id=8-67&p=f&t=ypNRVw6Ujtmm15UX-0
 
