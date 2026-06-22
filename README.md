@@ -18,6 +18,10 @@ https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?node-id=0-1
 
 https://www.figma.com/design/MNvrNOBWasz4GqZbLgXQ9n/Figma-UI-Designs?node-id=8-67&p=f&t=ypNRVw6Ujtmm15UX-0
 
+# Canva Designs
+
+https://canva.link/0solxpsa3udhlx5
+
 # Images
 
 Landing Page
